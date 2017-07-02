@@ -1,2 +1,6 @@
 Cara Menghilagkan Action Bar di Fragment
 https://stackoverflow.com/questions/21504088/how-to-hide-action-bar-for-fragment
+
+
+Cara kompres image dan konvert ke base64
+https://stackoverflow.com/questions/36117882/is-it-possible-to-store-image-to-firebase-in-android
