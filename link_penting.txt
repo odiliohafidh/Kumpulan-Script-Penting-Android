@@ -1,0 +1,2 @@
+Cara Menghilagkan Action Bar di Fragment
+https://stackoverflow.com/questions/21504088/how-to-hide-action-bar-for-fragment
