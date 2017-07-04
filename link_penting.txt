@@ -4,3 +4,6 @@ https://stackoverflow.com/questions/21504088/how-to-hide-action-bar-for-fragment
 
 Cara kompres image dan konvert ke base64
 https://stackoverflow.com/questions/36117882/is-it-possible-to-store-image-to-firebase-in-android
+
+how to make button always on above andorid xml
+https://stackoverflow.com/questions/37604278/buttons-always-on-the-top-android-xml-layout
